@@ -16,3 +16,7 @@ This guide will walk you through the process of setting up a GitLab CI/CD pipeli
 
 
 ###            https://www.youtube.com/watch?v=qSbE7NOXm8U
+
+
+<img width="717" alt="image" src="https://github.com/MadhaviShirbhate/AKS-using-helm-gitlabCICD-gitlabregistry/assets/43905916/962dd181-508b-4c99-baf4-127c6914a92d">
+
